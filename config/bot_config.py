@@ -14,7 +14,7 @@ SPREADSHEET_ID = os.getenv("SPREADSHEET_ID")
 
 
 
-
+# следует удалить
 '''BOT_TOKEN = "7269394176:AAHbtUCPD2VQg5wlB4kN-hFrIyoLpojyplU"
 ADMIN_IDS = {429618569, 739758783}
 FAQ_STORAGE_PATH = "storage/faq.json"'''
